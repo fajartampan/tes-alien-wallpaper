@@ -67,8 +67,8 @@
     {
       "id":1,
       "name_category": "Nature",
-      "title":"BLACK",
-      "image":"https://wallpaperaccess.com/full/805624.jpg"
+      "title":"Waterfall",
+      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
     },
     {
       "id": 2,
@@ -98,7 +98,7 @@
     {
       "id":6,
       "name_category": "Car",
-      "title":"Super Car",
+      "title":"Mobil Tampan",
       "image":"file:///android_asset/image/car.jpg"
     }
   ]
